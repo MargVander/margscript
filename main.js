@@ -7,12 +7,6 @@ setTimeout(
                   },10000);
 
 
-/*let monBouton = document.querySelector('button');
-let monFont = document.querySelector('body');
-function changeColor() {
-
-}*/
-
 function fontPsyche() {
     var x = document.getElementsByClassName("psyche");
     var i;
